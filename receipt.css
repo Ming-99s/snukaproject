@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(234, 208, 175);
+    place-content: center;
+}
+img {
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+}
+#gay {
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+.Information {
+    text-align: center;
+    margin: auto;
+}
+.Box1 {
+    background-color: white;
+    width: 900px;
+    height: 100x;
+    margin: auto;
+    border-radius: 20px;
+    
+}
+#Panha, h2, h1 {
+    margin-left: 5.5%;
+}
+#Rith, #jo, #heng, #table{
+    margin-left: 5.5%;
+}
+#ksv {
+    margin-left: 1%;
+}
+
+
